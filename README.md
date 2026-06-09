@@ -93,3 +93,7 @@ worth the extra overhead.
 
 The templates are reference material for consistent outputs. The canonical
 behavior contract lives in `SKILL.md`.
+
+## Contributors
+
+- [jokaye](https://github.com/jokaye)
